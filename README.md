@@ -19,7 +19,7 @@ This script applies the concept of fuzzing to the Safari browser on iOS devices.
 
 ###### Initial Setup
 1. Change the `server.document-root` in [config.conf](/config.conf) to whatever directory your .mov file is in.
-2. Change `file=Demo`in `fuzz.sh` to `file=File` where `File` is the name of your .mov file without the extension.
+2. Change `file=Demo`in [fuzz.sh](/fuzz.sh) to `file=File` where `File` is the name of your .mov file without the extension.
 
 ###### After Setup
 1. Run "lighttpd -Df config.conf".
