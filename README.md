@@ -4,7 +4,7 @@
 >
 > -- https://en.wikipedia.org/wiki/Fuzz_testing
 
-This script applies the concept of fuzzing to the Safari browser on iOS devices. It was written to help the [OpenJailbreak](https://twitter.com/OpenJailbreak) group (which I was a part of) find vulnerabilities in the way Safari handled Quicktime video (.MOV) rendering that could potentially be exploited to help create a jailbreak.
+This script applies the concept of fuzzing to the Safari browser on iOS devices. It was written to help the [OpenJailbreak](https://twitter.com/OpenJailbreak) group (which I was a part of) find vulnerabilities in the way Safari handled QuickTime video rendering that could potentially be exploited to help create a jailbreak.
 
 ### Dependencies
 
